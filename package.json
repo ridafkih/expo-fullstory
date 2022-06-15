@@ -1,6 +1,6 @@
 {
   "name": "expo-fullstory",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Uses Expo config plugins to allow FullStory for Expo/EAS-based React Native applications.",
   "main": "dist/index.js",
   "scripts": {
