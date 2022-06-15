@@ -1,7 +1,7 @@
 {
   "name": "expo-fullstory",
   "version": "0.1.0",
-  "description": "Uses Expo config plugins to allow FullStory for Expo/EAS-based React Native applications. 📱",
+  "description": "Uses Expo config plugins to allow FullStory for Expo/EAS-based React Native applications.",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc --declaration && tsc-alias"
