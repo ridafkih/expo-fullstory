@@ -1,12 +1,15 @@
 {
   "name": "expo-fullstory",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Uses Expo config plugins to allow FullStory for Expo/EAS-based React Native applications.",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc --declaration && tsc-alias"
   },
-  "keywords": ["fullstory", "expo"],
+  "keywords": [
+    "fullstory",
+    "expo"
+  ],
   "author": "Rida F'kih",
   "license": "ISC",
   "dependencies": {
