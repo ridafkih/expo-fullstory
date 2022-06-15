@@ -6,7 +6,7 @@ type FullStoryProps = {
   version: string;
 };
 
-export const withFullStory: ConfigPlugin<FullStoryProps> = (
+const withFullStory: ConfigPlugin<FullStoryProps> = (
   config,
   { orgId, version }
 ) => {
@@ -33,3 +33,5 @@ export const withFullStory: ConfigPlugin<FullStoryProps> = (
     },
   ]);
 };
+
+export default withFullStory;
