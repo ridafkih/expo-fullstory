@@ -10,7 +10,7 @@
 npm i @fullstory/react-native
 ```
 
-3. Add the following snippet to your `index.d.ts` adjacent to your application entry-point, or your `App.tsx`.
+3. Add the following snippet to your `index.d.ts` adjacent to your application entry-point.
 
 ```ts
 declare global {
