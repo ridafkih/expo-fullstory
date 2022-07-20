@@ -1,6 +1,10 @@
 <h1 align="center">Expo FullStory</h1>
 <p align="center">FullStory, on Expo applications, using Expo/EAS configuration plugins!</p>
 
+> **Warning**
+>
+> This package has been rendered obsolete by [@fullstory/react-native@1.1.0](https://github.com/fullstorydev/fullstory-react-native). @fullstory/react-native@* is officially supported and maintained by the FullStory team, you should use that instead. This library does not currently a plugin step for asset uploads, and while it would be trivial to add, there is a maintained solution. Consider this library deprecated. 
+
 ## Prerequisites
 
 1. You must be on Expo + EAS.
