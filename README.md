@@ -3,7 +3,7 @@
 
 > **Warning**
 >
-> This package has been rendered obsolete by [@fullstory/react-native@1.1.0](https://github.com/fullstorydev/fullstory-react-native). @fullstory/react-native@* is officially supported and maintained by the FullStory team, you should use that instead. This library does not currently a plugin step for asset uploads, and while it would be trivial to add, there is a maintained solution. Consider this library deprecated. 
+> This package has been rendered obsolete by [@fullstory/react-native@1.1.0](https://github.com/fullstorydev/fullstory-react-native). That package is officially supported and maintained by the FullStory team, you should use that instead. This library does not currently a plugin step for asset uploads, and while it would be trivial to add, there is a maintained solution. Consider this library deprecated. 
 
 ## Prerequisites
 
